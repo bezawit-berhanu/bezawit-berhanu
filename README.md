@@ -95,21 +95,6 @@ A dental clinic management platform for handling patient information, appointmen
 
 **Tech:** JavaScript, Node.js, Express.js, React, Prisma ORM, TiDB/MySQL, Axios.
 
-### NOVA – Smart Glasses
-An ongoing personal project exploring hands-free computer interaction through smart glasses.
-
-The goal is to build a system that allows users to interact with their computers using eye movements, voice commands, and subtle gestures, with accessibility and practical everyday use in mind.
-
-**Areas of exploration:** Computer Vision, Speech Recognition, Human-Computer Interaction, Embedded Systems, Edge Computing, and AI.
-
-### Other Projects & Ideas
-I'm also interested in developing practical technology solutions to problems in areas such as:
-- **CivicWatch:** A platform for reporting and tracking community infrastructure problems.
-- **MedFind:** A healthcare discovery platform that helps people find medical facilities and services.
-- **Worklog:** A productivity and work-tracking application.
-
----
-
 ## 📚 Currently Learning
 
 I'm continuously working on strengthening my foundations in:
