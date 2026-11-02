@@ -39,6 +39,22 @@ I'm also interested in the intersection of software engineering and artificial i
 - Entity Framework Core
 - Prisma ORM
 
+**DevOps & Development Tools**
+- Git 
+- GitHub
+- CI/CD Fundamentals
+- Cloud Deployment
+- Environment Configuration.
+
+**Project Management & Collaboration**
+- Agile Methodology
+- Scrum
+- Sprint Planning
+- Jira
+- Requirements Analysis
+- Task Management
+- Team Collaboration.
+- 
 **Databases**
 - MySQL
 - TiDB
