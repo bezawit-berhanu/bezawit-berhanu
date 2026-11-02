@@ -54,7 +54,7 @@ I'm also interested in the intersection of software engineering and artificial i
 - Requirements Analysis
 - Task Management
 - Team Collaboration.
-- 
+  
 **Databases**
 - MySQL
 - TiDB
